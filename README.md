@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is for Todo list we can create our todo list and if we completed we can change the status of the list by selecting "Completed and not completed" if you want to edit the particular todo task simply click edit button and edit and if you want to delete click delete it will deleted
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To Run Application
+`
+npm run dev
+`
+
+[live site] (https://deluxe-rugelach-4ddf21.netlify.app/)
